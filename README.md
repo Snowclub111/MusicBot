@@ -1,0 +1,2 @@
+# MusicBot
+Bot by Snowclub
