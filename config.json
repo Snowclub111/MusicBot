@@ -1,0 +1,9 @@
+{
+  "prefix": "!",  // You can change the prefix to whatever you want it doesn't have to be - !
+  "token": "Your-Bot-Token",
+  "tenorAPI": "tenor-API-key",
+  "newsAPI": "news-api-key",
+  "youtubeAPI": "youtube-api-key",
+  "yandexAPI": "yandex-api-key",
+  "geniusLyricsAPI": "genius-api-key"
+}
